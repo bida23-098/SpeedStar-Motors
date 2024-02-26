@@ -1,4 +1,26 @@
-<!doctype>
+<!doctype html>
 <html>
-  
+  <head>
+    <meta charset= UTF-8"8>
+    <title>about us</title>
+  </head>
+  <body>
+    <hearder role = "banner">
+      <h1>About Us</h1>
+      <p>SpeedStar Motors with its headquarters
+      in Botswana is one of the countries leading
+      car manufacturers.With our brands, business
+      unites and financial service, we are shaping
+      the zero emission and autonomous future of 
+      mobility</p>
+      <p>Our core valued helps us keep going and
+      Strong as well as to manufacture the best 
+      cars</p>
+      <p>Which are:</p>
+      <ul>
+        <li>#Strategy</li>
+        <li>#Integrity</li>
+        <li>#Diversity</li>
+      </ul>
+  </body>
 </html>
